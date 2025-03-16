@@ -1,7 +1,5 @@
 # Cline 使用教學
 
-![Cline Logo](https://example.com/cline-logo.png)
-
 Cline 是一個強大的AI助手，可以幫助您完成各種任務。以下是一些基本使用方法：
 
 ## 1. 文件操作
@@ -20,5 +18,9 @@ Cline 是一個強大的AI助手，可以幫助您完成各種任務。以下是
 ## 4. GitHub 操作
 - 使用 MCP 工具管理 GitHub 倉庫
 - 創建、更新、搜索倉庫
+
+## 5. 進階功能
+- 使用 MCP 工具擴展 Cline 的功能
+- 創建自定義工具和資源
 
 更多詳細信息，請參考 Cline 的官方文檔。
